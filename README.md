@@ -1,5 +1,7 @@
 # BANANAS
 
+**Note: our naszilla/bananas repo has been extended and renamed to [naszilla/naszilla](https://github.com/naszilla/naszilla), and this repo is deprecated and not maintained. Please use [naszilla/naszilla](https://github.com/naszilla/naszilla), which has more functionality.**
+
 [BANANAS: Bayesian Optimization with Neural Architectures for Neural Architecture Search](https://arxiv.org/abs/1910.11858)\
 Colin White, Willie Neiswanger, and Yash Savani.\
 _arXiv:1910.11858_.
